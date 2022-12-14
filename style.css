@@ -1,0 +1,19 @@
+.container{
+    max-width: min(80ch, 100vw - 4rem);
+    margin-inline: auto;
+}
+
+.navbar{
+    flex: ;
+    justify: space-between;
+    background-color: darkgoldenrod;
+}
+
+nav>ul{
+    display: flex;
+    list-style:none;
+}
+img{
+    max: 100%;
+    width: 100%;
+}
